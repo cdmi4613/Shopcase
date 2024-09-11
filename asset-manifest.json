@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Shopcase/static/css/main.7a3caf37.css",
+    "main.js": "/Shopcase/static/js/main.96d00c17.js",
+    "static/js/453.0f4552a2.chunk.js": "/Shopcase/static/js/453.0f4552a2.chunk.js",
+    "static/media/bg.png": "/Shopcase/static/media/bg.616f307c169b743ff920.png",
+    "static/media/logo.svg": "/Shopcase/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shopcase/index.html",
+    "main.7a3caf37.css.map": "/Shopcase/static/css/main.7a3caf37.css.map",
+    "main.96d00c17.js.map": "/Shopcase/static/js/main.96d00c17.js.map",
+    "453.0f4552a2.chunk.js.map": "/Shopcase/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3caf37.css",
+    "static/js/main.96d00c17.js"
+  ]
+}
